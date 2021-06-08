@@ -1,0 +1,38 @@
+*{
+margin: 0px;
+padding: 0px;  /* CSS Reset */
+}
+
+
+.cima{
+	width: 99%;
+	height:134px;
+	margin-left:10px;
+	margin-top:10px;
+	margin-right:10px;
+	background-color:#00BFFF;
+    justify-content: center;
+    align-items: center;
+	float:left;
+}
+
+.esquerda{
+	width: 20%;
+	height: 783px;
+	margin-left:10px;
+	justify-content: center;
+	align-items: center;
+	background-color:#FF6347;
+	float:left;
+}
+
+.meio{
+	width: 300px;
+	height: 300px;
+	margin-left:40px;
+	margin-top:40px;
+    justify-content: center;
+    align-items: center;
+	background-color:#FFA500;
+	float:left;
+}
